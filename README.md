@@ -32,6 +32,15 @@ Paletas de cores utilizadas:
 
 #f8ebbe
 
+Teste do aplicativo:
+
+1° Acessar o link: https://zapp.run/
+
+2° Fazer o upload do arquivo no zapp.run
+
+3° Clicar no botão "Run Application" para inicializar o aplicativo
+
+
 Tela 1 (visualização da tela principal sem anotações criadas):
 ![Captura de Tela (1)](https://github.com/user-attachments/assets/0faa3115-0817-41bc-b00f-79b089d82919)
 
