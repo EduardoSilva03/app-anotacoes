@@ -2,6 +2,19 @@ Aplicativo de Anotações de Estudos
 
 Objetivo: Um app onde o usuário pode organizar suas anotações de estudo e revisá-las.
 
+Funcionalidades:
+
+Widgets: Text, ListView, Card, DropdownButton, TextField
+Stateful Widget: Para adicionar e editar anotações
+Stateless Widget: Para exibir as anotações
+Scaffold: AppBar com botão para adicionar nota
+List: Para organizar anotações
+Map: Para armazenar as informações das notas (ex: {'titulo': 'Matemática', 'conteúdo': 'Derivadas'})
+Layout: Exibição das anotações por categorias
+Estilização: Customização dos cartões de notas
+Botões: Para adicionar notas e editar
+Navegação: Entre lista de anotações e detalhes de cada anotação
+
 Paletas de cores utilizadas:
 #2a0308
 #924f1b
